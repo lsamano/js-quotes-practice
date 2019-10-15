@@ -49,26 +49,6 @@
       "id": 10,
       "quote": "You know, failure hurts. Any kind of failure stings. If you live in the sting, you will undoubtedly fail. My way of getting past the sting is to say no, I’m just not going to let this get me down.",
       "author": "Sonia Sotomayor"
-    },
-    {
-      "author": "Flat",
-      "quote": "Learn",
-      "id": 11
-    },
-    {
-      "author": "Iron",
-      "quote": "Love",
-      "id": 12
-    },
-    {
-      "author": "School",
-      "quote": "Code",
-      "id": 13
-    },
-    {
-      "author": "egrgrege",
-      "quote": "ggergr",
-      "id": 14
     }
   ],
   "likes": [
@@ -76,6 +56,22 @@
       "id": 1,
       "quoteId": 1,
       "createdAt": 1558524356
+    },
+    {
+      "quoteId": 1,
+      "id": 2
+    },
+    {
+      "quoteId": 1,
+      "id": 3
+    },
+    {
+      "quoteId": 1,
+      "id": 4
+    },
+    {
+      "quoteId": 1,
+      "id": 5
     }
   ]
 }
