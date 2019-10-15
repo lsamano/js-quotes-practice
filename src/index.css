@@ -1,3 +1,12 @@
 #quote-list {
   padding: 20px;
+  flex: 1;
+}
+
+#wrapper {
+  display: flex;
+}
+
+#new-quote-form {
+  flex: 0 0 35%;
 }
